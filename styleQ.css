@@ -90,7 +90,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 31px;
+  margin-bottom: 30px;
   overflow: hidden;
   /*CSS counters to number the steps*/
   counter-reset: step;
